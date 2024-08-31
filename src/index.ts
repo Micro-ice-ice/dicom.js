@@ -1,5 +1,3 @@
-export const helloWorld = () => {
-    console.log('Hello world!');
-};
+import Dicom from './Dicom';
 
-helloWorld();
+export { Dicom };
